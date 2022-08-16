@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @geoperros.
-- 🌱 I’m currently learning python and aspire to be a developer one day.
+- Projects:
+- -
 
 <!---
 geoperros/geoperros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
